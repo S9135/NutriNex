@@ -1,0 +1,6 @@
+{
+  "name": "NutriNex",
+  "description": "NutriNex is a mobile-first progressive web app (PWA) that is a closed-loop digital health companion for the Malaysian public.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
